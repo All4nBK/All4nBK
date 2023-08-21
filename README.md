@@ -18,9 +18,6 @@
 <!-- readme stats -->
 
 #
-## Stats
-
-![Alan GitHub stats](https://github-readme-stats.vercel.app/api?username=All4nBK&show_icons=true&theme=tokyonight)
 
 <!-- Tecno day -->
 
