@@ -17,7 +17,15 @@
 
 <!-- readme stats -->
 
-#
+### main.py
+```python
+import allanz
+
+if allanz.coffee == False:
+    allanz.tomarCafe()
+else:
+    allanz.trabalhar
+```
 
 <!-- Tecno day -->
 
