@@ -8,11 +8,6 @@
 
 <!-- BAdges -->
 ---
-## Table
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=All4nBK&bg_color=090712&color=9e4c98&line=6d3169&point=5d2272&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
----
 ## Medias
 
 [![BEHANCE](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/allanz1)
