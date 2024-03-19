@@ -1,16 +1,6 @@
 <h1 align="center">Hi, I'm Alan</h1>
 <h3 align="center">The muse of my inspiration is technology, because every day it innovates and becomes more beautiful. I will never tire of her, she is so beautiful.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=all4nbk" alt="all4nbk" /></a> </p>
-
-- 🔭 I’m currently working on **Minecraft Bedrock Modding**
-
-- 👯 I’m looking to collaborate on **js project or py project**
-
-- 🤝 I’m looking for help with **js project or py project**
-
-- 📫 How to reach me **allanz.off0@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/allanzoffdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allanzoffdev" height="30" width="40" /></a>
